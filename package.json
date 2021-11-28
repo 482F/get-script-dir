@@ -1,0 +1,9 @@
+{
+  "name": "get-script-dir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/482F/get-script-dir.git",
+  "author": "482F <0ryonryoko0@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
